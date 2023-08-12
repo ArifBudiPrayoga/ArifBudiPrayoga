@@ -4,7 +4,6 @@
 </div>
 
 
-
 <!--- 
 --->
 
@@ -23,15 +22,15 @@
 </tr>
 <tr>
 <td>Libraries & Frameworks I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='next js'  width='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'></td>
+<td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'  alt='next js'  width='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'></td>
 </tr>
 <tr>
 <td>Databases I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'> <img  src='https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg'  alt='sqlite'  height='30'> <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'></td>
+<td> <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'> <img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'> <img  src='https://icongr.am/devicon/postgresql-original.svg'  alt='postgresql'  height='30'> </td>
 </tr>
 <tr>
 <td>Tools I Use</td>
-<td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
+<td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img  src='https://icongr.am/devicon/chrome-original.svg'  alt='Crome'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
 </tr>
 <tr>
 <td>Designing Tools I Use</td>
@@ -40,7 +39,7 @@
 </table>
 
 <hr />
-<h1  align=center>let's get connected</h1>
+<h1 align=center> <a href="">Let`s Connect</a> <img src="https://icongr.am/devicon/linkedin-original.svg?size=30&color=currentColor"></h1>
 <hr />
 
 <!---
